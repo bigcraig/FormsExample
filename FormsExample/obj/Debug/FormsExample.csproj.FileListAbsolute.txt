@@ -1,0 +1,9 @@
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\FormsExample.dll
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\FormsExample.pdb
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Craig\Documents\FormsExample\FormsExample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Craig\Documents\FormsExample\FormsExample\obj\Debug\FormsExample.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Documents\FormsExample\FormsExample\obj\Debug\FormsExample.dll
+C:\Users\Craig\Documents\FormsExample\FormsExample\obj\Debug\FormsExample.pdb

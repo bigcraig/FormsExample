@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsExample", "FormsExample\FormsExample.csproj", "{961C4987-DCDF-40EF-A810-3E36BA6E878F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsExample.Android", "Android\FormsExample.Android.csproj", "{68FCFF14-845B-4D13-9892-EE4EA7116468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FCFF14-845B-4D13-9892-EE4EA7116468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FCFF14-845B-4D13-9892-EE4EA7116468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FCFF14-845B-4D13-9892-EE4EA7116468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FCFF14-845B-4D13-9892-EE4EA7116468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961C4987-DCDF-40EF-A810-3E36BA6E878F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961C4987-DCDF-40EF-A810-3E36BA6E878F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961C4987-DCDF-40EF-A810-3E36BA6E878F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961C4987-DCDF-40EF-A810-3E36BA6E878F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Android\FormsExample.Android.csproj
+	EndGlobalSection
+EndGlobal
